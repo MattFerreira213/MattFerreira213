@@ -10,7 +10,7 @@
 
 Java Developer Junior | Spring | React 
 
-Tenho 22 anos e estudo programação a mais ou menos 1 ano e meio, inicie com a linguagem C# e hoje estudo java e seu ecossistema. Fiz essa mudança de tecnologia por ter grande interesse em atuar como desenvolvedor mobile mais especificamente com Android e vi o java como um bom início. Em paralelo irei iniciar com as tecnologias Golang e Dart visando algo mais a frente tendo em vista que são duas techs que vem tendo um bom desenvolvimento.
+<p>Tenho 22 anos e estudo programação a mais ou menos 1 ano e meio, inicie com a<br> linguagem C# e hoje estudo java e seu ecossistema. Fiz essa mudança de tecnologia por<br> ter grande interesse em atuar como desenvolvedor mobile mais especificamente com<br> Android e vi o java como um bom início. Em paralelo irei iniciar com as tecnologias Golang<br> e Dart visando algo mais a frente tendo em vista que são duas techs que vem tendo um bom<br> desenvolvimento.<p>
 
 ##About me
 
