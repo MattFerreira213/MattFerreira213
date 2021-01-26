@@ -10,7 +10,7 @@
 
 ### Developer Junior | Java | Spring 
 
-<p align="justify">Tenho 22 anos e estudo programação a mais ou menos 2 anos, inicie com a linguagem C# e hoje estudo java e seu ecossistema. Fiz essa mudança de tecnologia por ter grande interesse em atuar como desenvolvedor mobile mais especificamente com Android e vi o java como um bom início.<p>
+<p align="justify">Tenho 22 anos e estudo programação a mais ou menos 1 ano, inicie com a linguagem C# e hoje estudo java e seu ecossistema. Fiz essa mudança de tecnologia por ter grande interesse em atuar como desenvolvedor mobile mais especificamente com Android e vi o java como um bom início.<p>
 
 About me:
 
