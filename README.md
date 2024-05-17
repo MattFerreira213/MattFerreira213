@@ -10,7 +10,7 @@
 
 ### Developer Junior | Java | Spring 
 
-<p align="justify">Tenho 26 anos, iniciei minha carreira como desenvolvedor 2021 na Ntt Data. Entrei como estagiário sendo efetivado como junior três mêses depois. Fiquei na empresa até Maio de 2024. Atuei em diferentes clientes nesse periodo, Itau, Santander e Allianz, todos como desenvolvedor java. Atualmente de inicio o estudo de kotlin visando migra para o Android<p>
+<p align="justify">Tenho 26 anos, iniciei minha carreira como desenvolvedor 2021 na Ntt Data. Entrei como estagiário sendo efetivado como junior três mêses depois. Fiquei na empresa até Maio de 2024. Atuei em diferentes clientes nesse periodo, Itau, Santander e Allianz, todos como desenvolvedor java. Atualmente de inicio ao estudo de kotlin visando migra para o Android<p>
 
 About me:
 
